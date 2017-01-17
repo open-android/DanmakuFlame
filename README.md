@@ -25,7 +25,7 @@
 
      compile 'com.github.open-android:DanmakuFlame:v1.0.0'
 
-### 3. 在res文件夹下 新建一个子文件夹 raw  ，并且声明一个文件名字为：comments.xml ，并且拷贝一下内容到文件中
+### 3. 在res文件夹下 新建一个子文件夹 raw  ，并且声明一个文件名字为：comments.xml ，并且拷贝以下内容到文件中
 
 			<?xml version="1.0" encoding="UTF-8"?>
 				<i><chatserver>chat.bilibili.com</chatserver>
