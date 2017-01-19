@@ -1548,6 +1548,7 @@
         android:layout_height="match_parent" />
 
 ### 5 . 复制如下代码到Activity
+> 放置到onCreate方法中即可
 
 	DanmakuContext  context = DanmakuContext.create();
        final DanmakuView danmakuView = (DanmakuView) findViewById(R.id.sv_danmaku);
