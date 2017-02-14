@@ -2,6 +2,8 @@
 ---
 开源地址：[https://github.com/open-android/DanmakuFlame](https://github.com/open-android/DanmakuFlame "开源项目地址")
 
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ab23bc60148&chapterId=8a2c9bed5a3a4c7e015a3ab256f90149&vId=8a2c9bed5a3a4c7e015a3ab35db2014a&videoId=58807A2677F15C979C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 哔哩哔哩爆炸弹幕效果
 
 # 运行效果
